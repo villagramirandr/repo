@@ -102,7 +102,8 @@ if (suma > m) {
 // Generar una constante con un número
 // 2. Mostrar en pantalla si el número es par o impar
 
-// const num = 18
+const num = 18
+
 
 
 
