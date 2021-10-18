@@ -104,7 +104,11 @@ if (suma > m) {
 
 const num = 18
 
-
+    if (num/2 == 1){
+        console.log("Num es impar")
+    }else {
+        console.log("Num es par")
+    }
 
 
 
